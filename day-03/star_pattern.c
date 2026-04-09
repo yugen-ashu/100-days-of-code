@@ -2,11 +2,11 @@
 
 int main(){
 
-    int  i;
-    int o;
+    int  row;
+    int col;
 
-    for(o = 1; o <= 5; o++){
-        for(i = 1; i <= o; i++){
+    for(row = 1; row <= 5; row++){
+        for(col = 1; col <= row; col++){
             printf("* ");
         }
         printf("\n");
