@@ -1,3 +1,6 @@
+// Password Match
+// Ask the user to enter a password, then enter it again to confirm. Use strcmp to check if they match. Print "Password set!" or "Passwords do not match." accordingly.
+
 #include <stdio.h>
 #include <string.h>
 
